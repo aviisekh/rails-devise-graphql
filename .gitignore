@@ -28,6 +28,10 @@ coverage
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 
+#IDE traces
+.idea/*
+
+node_modules/*
 .env
 .env.*
 .idea/*
